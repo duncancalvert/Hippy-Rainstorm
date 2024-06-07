@@ -1,5 +1,5 @@
 # Hippy-Rainstorm
-A hippy rainstorm Javascript file and .Mov file
+A full screen multicolor rainstorm rendered with JavaScipt, CSS, and HTML.
 
  • My modified browser version can be found here: https://codepen.io/DonutsDuncan/pen/KJzMQG
 
