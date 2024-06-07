@@ -6,4 +6,4 @@ A hippy rainstorm Javascript file and .Mov file
 
 The idea and physics were inspired by @jackrugile's Rainbow Firestorm project:
  • https://codepen.io/jackrugile/pen/AokpF
- • This is a a modification and recreation of that pen
+ • This is a forked modification of that pen that provides fullscreen resolution, faster more realistic rain, and improved glass texturing.
